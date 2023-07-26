@@ -9,7 +9,7 @@ This repository contains a series of tutorials about Boost.Python, a C++ library
 3. **Exposing C++ classes and functions to Python**: Learn how to make your C++ classes and functions accessible in Python.
 4. **Calling Python from C++**: Understand how to call Python code from C++.
 5. **Error handling**: Learn how to handle errors and exceptions.
-6. **Overloading and Default Arguments**: Understand how to overload functions and use default arguments.
+6. **Overloading**: Understand how to overload functions.
 7. **Keyword Arguments and Default Arguments**: Learn how to use keyword and default arguments in Boost.Python.
 8. **Python Object Life Cycle Management**: Understand how Boost.Python manages the life cycle of Python objects.
 9. **Exception Handling**: Learn how to handle exceptions in Boost.Python.
